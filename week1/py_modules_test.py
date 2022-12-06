@@ -1,0 +1,4 @@
+# Using pip to import modules
+import requests
+response = requests.get("http://www.google.com")
+print(response)
