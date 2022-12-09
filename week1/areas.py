@@ -10,3 +10,4 @@ def rectangle(base, height):
 # Circle area
 def circle(radius):
     return math.pi*(radius**2)
+# You can then import this file on the powershell
